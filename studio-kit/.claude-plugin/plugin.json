@@ -1,0 +1,10 @@
+{
+  "name": "studio-kit",
+  "version": "0.1.0",
+  "description": "Reusable email studio kit: send-guard hook, email-reviewer agent, personalize skill and a rule-based review script. Works for any client brand.",
+  "author": {
+    "name": "Maqsood Ahmad Farooqi"
+  },
+  "license": "MIT",
+  "hooks": "./hooks/hooks.json"
+}

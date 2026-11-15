@@ -1,0 +1,10 @@
+# Personal Claude Code settings (holds MY_EMAIL) - never commit
+.claude/settings.local.json
+
+# Secrets
+.env
+.env.*
+
+# Dependencies and outputs
+node_modules/
+out/

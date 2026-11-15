@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lantern Lane Books - Email Studio</title>
+<style>
+  :root { --ink:#2b2118; --paper:#fbf6ec; --lamp:#e0a33a; --muted:#7a6a58; }
+  body { margin:0; font-family: Georgia, serif; background:var(--paper); color:var(--ink); }
+  header { padding:72px 24px 48px; text-align:center; background:radial-gradient(circle at 50% 0, #ffe2a8 0, var(--paper) 60%); }
+  h1 { font-size:2.6rem; margin:0 0 8px; }
+  .by { color:var(--muted); font-style:italic; }
+  main { max-width:920px; margin:0 auto; padding:24px; display:grid; gap:18px; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); }
+  .card { background:#fff; border:1px solid #eadfcb; border-radius:14px; padding:20px; }
+  .card h2 { font-size:1.1rem; margin-top:0; color:#8a5a12; }
+  footer { text-align:center; padding:32px; color:var(--muted); }
+  a { color:#8a5a12; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🏮 Lantern Lane Books</h1>
+  <p>A practice email studio for <strong>The Lantern Box</strong>, a monthly book subscription.</p>
+  <p class="by">by Maqsood Ahmad Farooqi</p>
+</header>
+<main>
+  <div class="card"><h2>Brand voice</h2><p>Warm, specific, unhurried. One idea and one invitation per email.</p></div>
+  <div class="card"><h2>Launch sequence</h2><p>Four emails over 12 days, plus 12 versions for browsers, bookworms and gift-givers.</p></div>
+  <div class="card"><h2>Send-guard</h2><p>A Claude Code hook that only lets email reach Resend test addresses or the owner.</p></div>
+  <div class="card"><h2>Review</h2><p>A rule-based reviewer with schema-shaped JSON, and a read-only reviewer agent.</p></div>
+  <div class="card"><h2>studio-kit</h2><p>The same guard, reviewer and skill, packaged as a reusable plugin.</p></div>
+  <div class="card"><h2>Checks</h2><p>All automated checks run on every push with GitHub Actions.</p></div>
+</main>
+<footer><a href="https://github.com/ai-universe-mi/lantern-email-studio">View the repository</a></footer>
+</body>
+</html>

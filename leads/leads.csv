@@ -1,0 +1,25 @@
+id,first_name,last_name,email,segment,city,favorite_genre,signup_date,orders,consent
+R001,Amira,Hollis,amira.hollis@example.com,browsers,Lahore,unknown,2026-06-01,0,yes
+R002,Bilal,Rahimi,bilal.rahimi@example.com,browsers,Karachi,mystery,2026-07-04,0,yes
+R003,Clara,Fenwick,clara.fenwick@example.com,browsers,Islamabad,unknown,2026-08-07,0,yes
+R004,Dev,Okafor,dev.okafor@example.com,browsers,Manchester,fantasy,2026-09-10,0,yes
+R005,Esme,Lindqvist,esme.lindqvist@example.com,browsers,Leeds,unknown,2026-10-13,0,yes
+R006,Faris,Haddad,faris.haddad@example.com,browsers,Toronto,memoir,2026-06-16,0,yes
+R007,Grace,Pemberton,grace.pemberton@example.com,browsers,Dubai,unknown,2026-07-19,0,yes
+R008,Hamza,Siddiqui,hamza.siddiqui@example.com,browsers,Bristol,literary fiction,2026-08-22,0,yes
+R009,Isla,Moreau,isla.moreau@example.com,bookworms,Lahore,mystery,2026-09-25,7,yes
+R010,Jonah,Achebe,jonah.achebe@example.com,bookworms,Karachi,history,2026-10-01,8,yes
+R011,Kiran,Varga,kiran.varga@example.com,bookworms,Islamabad,fantasy,2026-06-04,4,yes
+R012,Layla,Mansour,layla.mansour@example.com,bookworms,Manchester,poetry,2026-07-07,5,yes
+R013,Mateo,Delacroix,mateo.delacroix@example.com,bookworms,Leeds,memoir,2026-08-10,6,yes
+R014,Noor,Bashir,noor.bashir@example.com,bookworms,Toronto,sci-fi,2026-09-13,7,yes
+R015,Oscar,Kowal,oscar.kowal@example.com,bookworms,Dubai,literary fiction,2026-10-16,8,yes
+R016,Petra,Ingram,petra.ingram@example.com,bookworms,Bristol,mystery,2026-06-19,4,yes
+R017,Quinn,Tavares,quinn.tavares@example.com,gift-givers,Lahore,history,2026-07-22,2,yes
+R018,Rania,Nakamura,rania.nakamura@example.com,gift-givers,Karachi,fantasy,2026-08-25,3,yes
+R019,Sami,Ellery,sami.ellery@example.com,gift-givers,Islamabad,poetry,2026-09-01,1,yes
+R020,Tara,Qureshi,tara.qureshi@example.com,gift-givers,Manchester,memoir,2026-10-04,2,yes
+R021,Umar,Brandt,umar.brandt@example.com,gift-givers,Leeds,sci-fi,2026-06-07,3,yes
+R022,Vera,Soto,vera.soto@example.com,gift-givers,Toronto,literary fiction,2026-07-10,1,yes
+R023,Wren,Abernathy,wren.abernathy@example.com,gift-givers,Dubai,mystery,2026-08-13,2,yes
+R024,Yusuf,Karimi,yusuf.karimi@example.com,gift-givers,Bristol,history,2026-09-16,3,yes

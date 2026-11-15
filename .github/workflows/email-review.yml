@@ -1,0 +1,17 @@
+# Runs the studio's automated checks on every push and pull request. No secrets needed.
+name: email-review
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Run all studio checks
+        run: node scripts/test-all.mjs

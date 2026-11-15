@@ -1,0 +1,15 @@
+{
+  "name": "lantern-studio",
+  "description": "Marketplace for the Lantern Lane Books email studio: ships the studio-kit plugin.",
+  "owner": {
+    "name": "Maqsood Ahmad Farooqi",
+    "url": "https://github.com/ai-universe-mi/lantern-email-studio"
+  },
+  "plugins": [
+    {
+      "name": "studio-kit",
+      "source": "./studio-kit",
+      "description": "Send-guard hook, email-reviewer agent, personalize skill and review script."
+    }
+  ]
+}
